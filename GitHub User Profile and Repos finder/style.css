@@ -1,0 +1,31 @@
+body {
+    background: #24292e;
+}
+
+#git-header {
+    color: #28a745
+}
+
+.user {
+    display: flex;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    padding-top: 10px;
+    color: rgb(248, 247, 247);
+    font-weight: 400;
+}
+
+.user ul li {
+    font-size: 20px;
+}
+
+.user ul, .repos ul{
+    list-style: none;
+}
+
+.repos {
+    display: flex;
+    margin-bottom: 10px;
+    background: #e3ecf0;
+    border-radius: 7px;
+}
